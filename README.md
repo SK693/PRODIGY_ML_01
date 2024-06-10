@@ -29,10 +29,10 @@ The trained model is evaluated on the test set. Mean Squared Error (MSE) and Roo
 #### 5. Visualizations
 Several visualizations are created to understand the model's performance and the data:
 
-Actual vs Predicted Prices Scatter Plot: Shows the relationship between actual and predicted house prices.
-Heatmap of Residuals: Displays the residuals (errors) of the predictions.
-Correlation Matrix Heatmap: Illustrates the correlation between different features and the target variable.
-Scatter Matrix of Features and Target: Provides a comprehensive visualization of the features and the target variable.
+##### Actual vs Predicted Prices Scatter Plot: Shows the relationship between actual and predicted house prices.
+##### Heatmap of Residuals: Displays the residuals (errors) of the predictions.
+##### Correlation Matrix Heatmap: Illustrates the correlation between different features and the target variable.
+##### Scatter Matrix of Features and Target: Provides a comprehensive visualization of the features and the target variable.
 
 #### 6. Conclusion
 This task demonstrates the application of linear regression to predict house prices using basic features such as the number of bedrooms, bathrooms, and square footage. The visualizations help in understanding the model's performance and the relationships between different features.
